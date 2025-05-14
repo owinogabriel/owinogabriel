@@ -3,7 +3,7 @@
 I'm a passionate **Software Developer** specializing in Frontend Development, constantly exploring new technologies and building amazing projects. Recently, I graduated from a **Software Engineering** course with a specialization in **Frontend Development**, and I'm currently advancing my skills through the **ALX ProdevFrontend Program**.
 
 ### 🛠️ Technologies & Tools
-- **Frontend**: React, Tailwind CSS, Bootstrap
+- **Frontend**: React, Tailwind CSS,
 - **Version Control**: Git, GitHub
 - **Tools**: Webpack, Babel, Docker
 - **Testing**: Jest, Cypress
@@ -14,16 +14,13 @@ I'm a passionate **Software Developer** specializing in Frontend Development, co
 - 🎨 Customizing design systems with **Tailwind CSS $$ SASS/SCSS**
 - 💻 Exploring **Full Stack Development** with JavaScript (MERN stack)
 
-<p align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs," alt="programming languages" />
-</p>
-
-<p align="center">
+<br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,sass,bootstrap,tailwind" alt="frameworks" />
-</p>
-<p align="center">
+  <br/>
   <img src="https://skillicons.dev/icons?i=vscode,figma,firebase" alt="tools" />
-</p> 
+</div> 
 
 <p>
   <img src="https://github-readme-stats-kv.vercel.app/api?username=owinogabriel&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Leon's github-readme-stats"/>
@@ -33,7 +30,6 @@ I'm a passionate **Software Developer** specializing in Frontend Development, co
 
 ### 📊 GitHub Stats
 <p>
-<!-- <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=owinogabriel&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="Leon's wakatime stats"/> -->
     <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=owinogabriel&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="Leon Gabriel" />
 
 <h2></h2>
