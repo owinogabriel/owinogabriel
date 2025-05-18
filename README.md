@@ -3,7 +3,7 @@
 I'm a passionate **Software Developer** specializing in Frontend Development, constantly exploring new technologies and building amazing projects. Recently, I graduated from a **Software Engineering** course with a specialization in **Frontend Development**, and **I'm currently working as a Front-end Developer Intern**.
 
 ### 🛠️ Technologies & Tools
-- **Frontend**: React, Tailwind CSS,
+- **Frontend**: React, Tailwind CSS
 - **Version Control**: Git, GitHub
 - **Tools**: Webpack, Babel, Docker
 - **Testing**: Jest, Cypress
