@@ -37,4 +37,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/its.leon.__)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leon-gabriel-82655b308)
 
+---
+
 >- Thank You for the visit 🚀
