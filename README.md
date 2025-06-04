@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
->- 🎥 I’m a **Front End developer** and **React enthusiast**
+>- 🎥 I’m a **Front End developer** and **React enthusiast** Right now, I'm geeking out over **how browsers tick**—learning about rendering pipelines, HTTP requests, and scripting with Puppeteer to automate browser tasks. Can't wait to level up my web dev game!
 >- 🔧 I’m currently working as a **Front-End Developer** specializing in **React**
 >- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **Supabase**
 >- 🧠 Constantly learning & sharing what I learn
