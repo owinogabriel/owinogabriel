@@ -21,16 +21,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats-kv.vercel.app/api?username=owinogabriel&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Leon's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats-kv.vercel.app?user=owinogabriel&theme=tokyonight_duo&hide_border=true" width="48%" alt="Leon's github-readme-streak-stats"/></div>
-
----
-
 ## 🤝 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/LyonGabrie24988)
