@@ -8,7 +8,7 @@
 
 >- 🎥 I’m a **Front End developer** and **React enthusiast** Right now, I'm geeking out over **how browsers tick**—learning about rendering pipelines, HTTP requests, and scripting with Puppeteer to automate browser tasks.
 >- 🔧 I’m currently working as a **Front-End Developer**
->- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **Supabase**
+>- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, **Neon** and **Supabase**
 >- 🧠 Constantly learning & sharing what I learn
 >- 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
