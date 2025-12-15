@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me:
 
 >- 🎥 I’m a **Front End developer** and **React enthusiast** Right now, I'm geeking out over **how browsers tick**—learning about rendering pipelines, HTTP requests, and scripting with Puppeteer to automate browser tasks.
 >- 🔧 I’m currently working as a **Front-End Developer**.
