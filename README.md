@@ -30,4 +30,4 @@
 
 ---
 
->- Thank You for the visit. 🚀
+>- Thank You for the visit. 😍
