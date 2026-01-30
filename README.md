@@ -1,4 +1,4 @@
-## Owino Gabriel.
+## Leon Gabriel.
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=440&height=55&lines=Software+Developer+%7C+Front+End+Dev;Fullstack+Dev+%7C+React+Enthusiast" alt="Typing SVG" /></div>
 
