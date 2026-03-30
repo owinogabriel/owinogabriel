@@ -6,7 +6,7 @@
 
 ## 🚀 About Me:
 
->- 🎥 Front End Developer exploring the Backend with Node/Express | building scalable TypeScript APIs
+>- 🎥 Front End Developer exploring the Backend with Node/Express | building scalable TypeScript APIs.
 >- 🔧 I’m currently working as a **Front-End Developer**.
 >- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, **Neon** and **Supabase**.
 >- 🧠 Constantly learning & sharing what I learn.
