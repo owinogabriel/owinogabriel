@@ -10,7 +10,7 @@
 >- 🔧 I’m currently working as a **Front-End Developer**.
 >- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, **Neon** and **Supabase**.
 >- 🧠 Constantly learning & sharing what I learn.
->- 🛠️ Focused on **performance**, **developer experience**, and **clean UI**.
+>- 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
 ---
 
